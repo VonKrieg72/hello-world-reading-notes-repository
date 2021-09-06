@@ -2,4 +2,4 @@
 
 Here are my notes for the Growth Mindset reading.
 
-[<== Back](readme.md)
+[<== Back](README.md)
