@@ -9,9 +9,13 @@ Hi. Welcome to my reading notes repository.  My name is David Stokes. I am a stu
 Below is a Table of Contents to my Reading Notes
 
 -[Lab 01b The Growth Mindset] (lab01bthegrowthmindset.md)
+
 -[Read 01 Learning Markdown]
+
 -[Read 02 The Coder's Computer]
+
 -[Read 03 Revisions and the Cloud]
+
 -[Read 04 Structure Web Pages with HTML]
 
 
