@@ -15,3 +15,4 @@ Below is a Table of Contents to my Reading Notes
 -[Read 02 The Coder's Computer](thecoderscomputer.md)
 
 -[Read 03 Revisions and the Cloud](revisionsandthecloud.md)
+
