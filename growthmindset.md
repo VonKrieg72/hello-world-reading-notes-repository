@@ -7,3 +7,5 @@ Here are my notes for the Growth Mindset reading.
 this is a test to see if the authentication worked.
 
 just entering another sentence to see if it gets pushed up to github 
+
+I am adding this third sentence to see if the acp process still works.
