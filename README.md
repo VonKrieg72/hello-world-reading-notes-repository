@@ -26,3 +26,5 @@ Below is a Table of Contents to my Reading Notes
 -[Read 03 Revisions and the Cloud](revisionsandthecloud.md)
 
 -[Read 04 Structure Web Pages With HTML](structure-web-pages-with-html.md)
+
+-[Read 05 Design Web Pages with CSS](designwebpageswithcss.md)
