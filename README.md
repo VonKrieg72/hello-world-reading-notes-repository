@@ -19,12 +19,14 @@ In order to keep to yourself focused and in the growth mindset you should consta
 
 Below is a Table of Contents to my Reading Notes
 
--[Read 01 Learning Markdown](learningmarkdown.md)
+-[Learning Markdown](learningmarkdown.md)
 
--[Read 02 The Coder's Computer](thecoderscomputer.md)
+-[The Coder's Computer](thecoderscomputer.md)
 
--[Read 03 Revisions and the Cloud](revisionsandthecloud.md)
+-[Revisions and the Cloud](revisionsandthecloud.md)
 
--[Read 04 Structure Web Pages With HTML](structure-web-pages-with-html.md)
+-[Structure Web Pages With HTML](structure-web-pages-with-html.md)
 
--[Read 05 Design Web Pages with CSS](designwebpageswithcss.md)
+-[Design Web Pages with CSS](designwebpageswithcss.md)
+
+-[Dynamic Web Pages with JavaScript](dynamicwebpageswithjavascript.md)
