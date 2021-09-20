@@ -30,3 +30,5 @@ Below is a Table of Contents to my Reading Notes
 -[Design Web Pages with CSS](designwebpageswithcss.md)
 
 -[Dynamic Web Pages with JavaScript](dynamicwebpageswithjavascript.md)
+
+-[Programming with JavaScript](programmingwithjavascript.md)
