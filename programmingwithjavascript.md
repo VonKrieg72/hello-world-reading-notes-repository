@@ -508,5 +508,3 @@ instanceof  Returns true if an object is an instance of an object type
 *(Refsnes Data, “JavaScript Operators”, 1999-2021)*
 
 
-
-[<==back](https://vonkrieg72.github.io/reading-notes/)
