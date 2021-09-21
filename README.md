@@ -32,3 +32,5 @@ Below is a Table of Contents to my Reading Notes
 -[Dynamic Web Pages with JavaScript](dynamicwebpageswithjavascript.md)
 
 -[Programming with JavaScript](programmingwithjavascript.md)
+
+-[Operators and Loops](operatorsandloops.md)
