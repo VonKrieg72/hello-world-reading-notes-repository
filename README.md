@@ -19,6 +19,8 @@ In order to keep to yourself focused and in the growth mindset you should consta
 
 Below is a Table of Contents to my Reading Notes
 
+Code 102
+
 -[Learning Markdown](learningmarkdown.md)
 
 -[The Coder's Computer](thecoderscomputer.md)
@@ -34,3 +36,7 @@ Below is a Table of Contents to my Reading Notes
 -[Programming with JavaScript](programmingwithjavascript.md)
 
 -[Operators and Loops](operatorsandloops.md)
+
+Code 201
+
+[HTML Text, CSS Introduction, and Basic JavaScript Instructions](htmlcssjavascript.md) 
