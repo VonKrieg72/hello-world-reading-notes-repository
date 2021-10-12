@@ -48,3 +48,5 @@ Code 201
 -[Class-04](https://github.com/VonKrieg72/reading-notes/blob/main/class-04.md)
 
 -[Class-05](https://github.com/VonKrieg72/reading-notes/blob/main/class-05.md)
+
+-[Class-06](https://github.com/VonKrieg72/reading-notes/blob/main/class-06.md)
