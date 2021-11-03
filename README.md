@@ -60,3 +60,5 @@ Code 201
 -[Class-10](https://github.com/VonKrieg72/reading-notes/blob/main/class-10.md)
 
 -[Class-11](https://github.com/VonKrieg72/reading-notes/blob/main/class-11.md)
+
+-[Class-12](https://github.com/VonKrieg72/reading-notes/blob/main/class-12.md)
